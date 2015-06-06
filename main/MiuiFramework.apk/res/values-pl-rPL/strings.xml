@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android_ringtone_silent">Brak</string>
+    <string name="android_ringtone_unknown">Nieznany dźwięk</string>
+    <string name="presentation_payphone">Numer płatny</string>
+    <string name="presentation_private">Numer prywatny</string>
+    <string name="presentation_unknown">Nieznany numer</string>
+    <string name="yellow_page_module_sms_sent">Wiadomość SMS wysłana</string>
+    <string name="yellow_page_sms_disabled_in_privacy_mode">Nie można wysyłać SMS w trybie Poufnym</string>
+    <string name="yellow_page_sms_send_failed">Nie można wysłać SMS</string>
+    <string name="yellow_page_sms_sending">Wysyłanie…</string>
+    <string name="yellow_page_unable_send_sms">Nie można wysłać SMS</string>
+    <string name="device_hongmi">Redmi</string>
+    <string name="device_pad">MiPad</string>
+    <string name="device_xiaomi">Telefon MI</string>
+    <string name="miui_device_name">Android</string>
+    <string name="day_following_good_friday">Czwartek</string>
+    <string name="group_name_contacts">Kontakty</string>
+    <string name="group_name_friends">Znajomi</string>
+    <string name="group_name_family">Rodzina</string>
+    <string name="group_name_coworkers">Współpracownicy</string>
+    <string name="no_notification_tips">Brak powiadomień</string>
+    <string name="maml_component_customization_title">Ustawienia</string>
+    <string name="default_name">Domyślnie</string>
+    <string name="resource_select">Wybierz</string>
+    <string name="android_ringtone_default_with_actual">Domyślny dzwonek (%1$s)</string>
+    <string name="app_no_notification">Bez powiadomień</string>
+    <string name="app_notificaiton_on_notificationBar">Pasek powiadomień</string>
+    <string name="app_notificaiton_on_statusBar_and_notificationBar">Na ekranie i pasku powiadomień</string>
+    <string name="perm_send_push_dspt">Zezwolenie na wiadomości push do Xiaomi</string>
+    <string name="perm_send_push_lab">Wysyłanie wiadomości push</string>
+</resources>
